@@ -1,0 +1,15 @@
+{
+  "billing": {
+      "information": {
+        "title": "Détails de facturation",
+        "companyName": "Nom de la compagnie",
+        "emailAddress": "Adresse email",
+        "vatNumber": "Numéro de TVA"
+      },
+      "actions": {
+        "delete": "Supprimez",
+        "edit": "Éditez",
+        "share": "Partagez"
+      }
+  }
+}
