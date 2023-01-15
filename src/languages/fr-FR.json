@@ -1,7 +1,7 @@
 {
   "billing": {
       "information": {
-        "title": "Billing Information",
+        "title": "Détails de Facturation",
         "companyName": "Nom de la compagnie",
         "emailAddress": "Adresse email",
         "vatNumber": "Numéro de TVA"
