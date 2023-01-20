@@ -8,7 +8,6 @@
       },
       "actions": {
         "delete": "Löschung",
-        "edit": "Bearbeiten",
         "share": "Aktie"
       }
   }
