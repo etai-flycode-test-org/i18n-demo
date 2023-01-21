@@ -7,7 +7,7 @@
         "vatNumber": "Numéro de TVA"
       },
       "actions": {
-        "delete": "Add missing translation for empty string",
+        "delete": "Add missing translation for empty string - edit",
         "edit": "Éditez",
         "share": "Partagez"
       }

@@ -9,7 +9,7 @@
       "actions": {
         "delete": "Löschung",
         "share": "Aktie",
-        "edit": "Add missing translation for non existing key in resource"
+        "edit": "Add missing translation for non existing key in resource - edit"
       }
   }
 }
