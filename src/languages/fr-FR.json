@@ -7,7 +7,7 @@
         "vatNumber": "Numéro de TVA"
       },
       "actions": {
-        "delete": "",
+        "delete": "What happened to this value?",
         "edit": "Éditez",
         "share": "Partagez"
       }

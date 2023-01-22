@@ -8,7 +8,8 @@
       },
       "actions": {
         "delete": "Löschung",
-        "share": "Aktie"
+        "share": "Aktie",
+        "edit": "Adding a translation that wasn't in the JSON"
       }
   }
 }
